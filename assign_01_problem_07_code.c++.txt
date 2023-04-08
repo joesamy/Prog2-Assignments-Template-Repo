@@ -1,0 +1,14 @@
+// youssef samy     
+// 20216466
+//problem 7
+#include <iostream>
+using namespace std;
+
+int main() {
+   int a,b,c,d,X;
+   cout<<"enter 4 numbers"<<endl;
+   cin>>a>>b>>c>>d;
+   X=(a*b)-(c*d);
+   cout<<" Difference = "<<X<<endl;
+   
+}
